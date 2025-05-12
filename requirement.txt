@@ -1,8 +1,8 @@
 gradio
 langchain
-langchain-community
-langchain-core
-langchain-ollama
+langchain_community
+langchain_core
+langchain_ollama
 numpy
 pandas
 torch
